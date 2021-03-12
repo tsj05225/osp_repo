@@ -3,8 +3,6 @@ starting message...
 ---------------------------------------
 
 [username] message.
-
-[Lemondouble] 2016118227
 ImNotJSW 2019115817
 [kanei0415] 2020110761
 [henu0307] 2018111175
@@ -17,5 +15,4 @@ ImNotJSW 2019115817
 [HeewonP825] 2019117981
 [sunjh96] 2017113218
 [sonwonjun103] 2017113724
-[jsi0289] 2017115019
-[heej-ng] 2020110007
+[ThisIsHwang] 2019117685
